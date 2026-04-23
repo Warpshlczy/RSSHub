@@ -5,6 +5,9 @@
     "keywords": [
         "RSS"
     ],
+  "engines": {
+  "node": "20.x"
+},
     "homepage": "https://github.com/DIYgod/RSSHub#readme",
     "bugs": {
         "url": "https://github.com/DIYgod/RSSHub/issues"
